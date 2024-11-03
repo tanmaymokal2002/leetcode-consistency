@@ -6,10 +6,12 @@ this repository is where i save all my leetcode solutions and review them whenev
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanmaymokal2002/leetcode-consistency/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/tanmaymokal2002/leetcode-consistency/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanmaymokal2002/leetcode-consistency/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/tanmaymokal2002/leetcode-consistency/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
