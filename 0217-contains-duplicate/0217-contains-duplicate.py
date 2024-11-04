@@ -35,12 +35,23 @@ class Solution:
     '''
 
     #optimal approach: using hashMap
+    '''
     def containsDuplicate(self, nums: List[int]) -> bool:
         hashMap = {}
         for num in nums:
             if num in hashMap and hashMap[num] >= 1:
                 return True
             hashMap[num] = hashMap.get(num, 0) + 1
+        return False
+    '''
+
+    #optimal approach: using hashMap
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        hashMap = {}
+        for num in nums:
+            if num in hashMap:
+                return True
+            hashMap[num] = 1
         return False
 
 
